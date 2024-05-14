@@ -13,6 +13,7 @@ ORGANICS data set contains 8 variables as shown in the table below and more than
 observations
 
 #Variable Name / Description
+
 ID: Customer loyalty identification number
 
 DemAffl: Demographics - Affluence grade on a scale from 1 to
