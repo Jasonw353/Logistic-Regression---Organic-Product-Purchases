@@ -11,3 +11,21 @@ organic products. Based on the data collected, the supermarket wants to understa
 behavior of their customers and their likelihood of purchase of organic products. The
 ORGANICS data set contains 8 variables as shown in the table below and more than 22,000
 observations
+
+#Variable Name / Description
+ID: Customer loyalty identification number
+
+DemAffl: Demographics - Affluence grade on a scale from 1 to
+30 (higher values indicate more affluent customer)
+
+DemAge: Demographics - Age, in years
+
+DemGender: Demographics - M = male, F = female, U = unknown
+
+PromClass: Loyalty status: tin, silver, gold, or platinum
+
+PromSpend: Total amount spent in $
+
+PromTime: Time as loyalty card member in years
+
+TargetBuy: Organics purchased? 1 = Yes, 0 = No
